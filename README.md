@@ -2,6 +2,8 @@
 
 This codebase contains the [WordFiller](http://www.LucasMoffitt.com/WordFiller) project, by [Lucas Moffitt](http:www.LucasMoffitt.com)
 
+Not interested in the code? **[Download Here](https://github.com/downloads/LucasMoffitt/WordFiller/WordFiller.zip).**
+
 ## About WordFiller
 
 WordFiller is an Educational Technology tool for use with an interactive smart board and the Microsoft Kinect. This comprehension tool extracts designated key words from text, to create a challenging comprehension activity for students of all stages and subjects.
